@@ -1,0 +1,53 @@
+body {
+  font-family: 'Delius', sans-serif; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start ;
+  height: 100vh;
+  margin: 0;
+  background-image: url('./cartoes-de-natal-para-imprimir-15.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom-font {
+  font-family: 'Delius', sans-serif;
+  margin-top: 150px;
+  text-align: center;
+  color: green;
+}
+
+.countdown {
+  display: flex;
+  /*flex-direction: column;*/
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  font-family: 'Delius', sans-serif;
+  margin-top: 100px;
+  color: green;
+
+}
+h1 {
+  
+  text-align: center;
+
+}
+
+span {
+  margin: 0 10px;
+}
+
+footer{
+ margin-top: 80px; 
+
+}
+audio{
+  background-color:;
+  }
+
+  
+  
+
